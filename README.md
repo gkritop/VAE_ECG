@@ -61,7 +61,7 @@ This implementation shows:
   - Balance reconstruction fidelity with a smooth, structured latent space
 
 - **Performance**
-  - Achieved **Maximum Mean Discrepancy (MMD)** values consistent with reported results in VAE-based ECG literature ([*Interpretable Feature Generation in ECG*](10.3389/fgene.2021.638191))
+  - Achieved **Maximum Mean Discrepancy (MMD)** values consistent with reported results in VAE-based ECG literature ([*Interpretable Feature Generation in ECG*](https://doi.org/10.3389/fgene.2021.638191))
 
 ---
 
